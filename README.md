@@ -7,3 +7,6 @@ This is The Hello Security Team's take on a cheesy text based RPG dungeon crawle
 
 There is plenty of room for expansion and content within the code and it is free to modify and redistribute so long as you mention the source.
 
+This is designed to be used within termux or python terminal (though termux has yet to be thoroughly tested)
+
+Contributions and forks are encouraged 😀
