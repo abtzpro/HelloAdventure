@@ -18,3 +18,4 @@ This is designed to be used within termux or python
 terminal (though termux has yet to be thoroughly tested)
 
 Contributions and forks are encouraged 😀
+
