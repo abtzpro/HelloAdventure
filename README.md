@@ -17,5 +17,7 @@ so long as you mention the source.
 This is designed to be used within termux or python 
 terminal (though termux has yet to be thoroughly tested)
 
+HelloAdventure is Developed by abtzpro, Adam R, and Hello Security
+
 Contributions and forks are encouraged 😀
 
